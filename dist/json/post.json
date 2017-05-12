@@ -1,0 +1,52 @@
+{
+"id": "1",
+"post_date": "2017-05-11 11:17:00",
+"post_author": "1",
+"post_author_edited": null,
+"post_title": "The philosopher’s football",
+"post_slug": "man-must-explore-and-this-is-exploration-at-its-greatest",
+"post_content": "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo </p>",
+"post_status": "published",
+"featured_image": null,
+"created_at": "2017-05-11 10:18:17",
+"updated_at": "2017-05-11 10:18:17",
+"author": {
+"id": "1",
+"firstname": "Admin",
+"lastname": "User",
+"email": "User@admin.com",
+"profile_image": "https://graph.facebook.com/100001394310643/picture?type=square",
+"confirmed": "1",
+"confirmation_code": null,
+"created_at": "2017-05-11 10:00:45",
+"updated_at": "2017-05-11 10:00:45"
+},
+"categories": [
+{
+"id": "2",
+"user_id": "1",
+"user_id_edited": "1",
+"title": "html",
+"slug": "html",
+"created_at": "2015-05-11 10:00:45",
+"updated_at": "2015-05-11 10:00:45",
+"pivot": {
+"post_id": "21",
+"category_id": "2"
+}
+},
+{
+"id": "3",
+"user_id": "1",
+"user_id_edited": "1",
+"title": "css",
+"slug": "css",
+"created_at": "2015-05-11 10:00:45",
+"updated_at": "2015-05-11 10:00:45",
+"pivot": {
+"post_id": "21",
+"category_id": "3"
+}
+}
+]
+}
